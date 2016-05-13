@@ -1,0 +1,23 @@
+{
+  "name": "macbook-pro-snippet",
+  "homepage": "https://github.com/marceltheshell/macbook-pro-snippet",
+  "authors": [
+    "Marcel Degas <marcel.degas@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.3",
+    "prezento": "https://github.com/ivaldi/prezento",
+    "bootstrap": "~3.3.6"
+  }
+}
